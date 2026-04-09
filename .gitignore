@@ -1,0 +1,9 @@
+node_modules/
+.env
+client/dist/
+
+# Uploaded data files — managed via the app's upload feature
+server/data/*.xls
+server/data/*.xlsx
+server/data/*.csv
+server/data/metadata.json
